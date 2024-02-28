@@ -44,6 +44,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Updated <b> Nationally Determined Contribution of Ukraine </b> to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf
 - Національно-визначений внесок України // <b> *(Ukraine's nationally determined contribution)* </b>: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
 - <b> Ukraine 2050 Low Emission Development Strategy </b>, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
+- <b> Проект Національного Плану З Енергетики Та Клімату України 2025-2030 </b> *(Draft National Energy and Climate Plan of Ukraine 2025-2030)* UA/EN: https://www.me.gov.ua/Documents/Detail?lang=uk-UA&id=f7088035-142e-4912-9aa0-6fe2def80c1b&title=ProektNatsionalnogoPlanuZEnergetikiTaKlimatuUkraini2025-2030&fbclid=IwAR3GNgnf5L9FxX8f9j8XPpL2xihu38ZbrW4_Os-HOHURejPyTvNMxqDaKpg  
 
 ### EU accession <a name="eu-accession"></a> 
 
