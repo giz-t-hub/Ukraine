@@ -155,6 +155,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
     - <b> Інтеграція громадського транспорту та альянси перевізників </b> *(Public Transport Integration and Transit Alliances)* (GIZ, 2018): https://sutp.org/download/9597/?tmstv=1707472617
     - <b> 5 принципів сталої мобільності у вашій громаді </b> *(5 Prinicples for Sustainable Mobility in Hromadas)* (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
     - <b> Управління попитом на транспортні послуги </b> *(Transport Demand Management)* (GIZ, 2009): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
+    - Repository: https://enefcities.org.ua/diyalnist/mobilnist/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
