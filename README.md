@@ -9,7 +9,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies) 
+- [Climate and energy policies](#climate-energy-policies)
+- [Urban and regional development](#urban)
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
@@ -47,7 +48,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> Ukraine 2050 Low Emission Development Strategy </b>, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
 - <b> Проект Національного Плану З Енергетики Та Клімату України 2025-2030 </b> *(Draft National Energy and Climate Plan of Ukraine 2025-2030)* UA/EN: https://www.me.gov.ua/Documents/Detail?lang=uk-UA&id=f7088035-142e-4912-9aa0-6fe2def80c1b&title=ProektNatsionalnogoPlanuZEnergetikiTaKlimatuUkraini2025-2030&fbclid=IwAR3GNgnf5L9FxX8f9j8XPpL2xihu38ZbrW4_Os-HOHURejPyTvNMxqDaKpg  
 
-### EU accession <a name="eu-accession"></a> 
+### Urban and regional development <a name="urban"></a> 
+
+-
+
+### EU accession and cooperation <a name="eu-accession"></a> 
 
 - Communication on EU Enlargement policy - <b> Ukraine 2023 Report Accompanying the document Communication </b> from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 : https://neighbourhood-enlargement.ec.europa.eu/ukraine-report-2023_en
 
