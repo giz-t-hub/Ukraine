@@ -128,6 +128,8 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
  
  - General:
 
+  - <b> Глобальний посібник з проектування вулиць </b> (Global Guide to Street Design), Global Designing Cities Initiative , July 2024: https://globaldesigningcities.org/publication/global-street-design-guide-ua/ - *Created with input from experts from 72 cities in 42 countries, the guide offers technical details of street design that prioritize pedestrians, cyclists and public transport passengers.*
+  - <b> Проектування вулиць для дітей </b> (Designing streets for children), Global Designing Cities Initiative , July 2024: https://globaldesigningcities.org/publication/designing-streets-for-kids-ua/ - *Designing Streets for Children covers international best practices, strategies, programmes and policies that cities around the world have used to design spaces that allow children of all ages and abilities to use the best asset of cities – streets. The guide provides design guidelines and successful examples of safe, enjoyable and inspiring streets for children and caregivers.*
    - <b> Аналітичний огляд "Зобов'язання з надання транспортних послуг (модель PSO) як частина євроінтеграції України” </b> *(Analytical review "Public Service Obligations (PSO model) as part of Ukraine's European integration")* (NGO Vision Zero, 2024) https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/PSO.pdf 
    - <b> Дослідження трамвайних систем у містах України у 2023 році / *(Study of tram systems in Ukrainian cities in 2023)*  </b> (NGO Vision Zero, 2024)
   UA: https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/Trams.pdf //EN:  https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/ENGtrams.pdf 
