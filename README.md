@@ -27,6 +27,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
+- <b> Національнa транспортна стратегія України на період до 2030 року  та затвердження операційного плану заходів з її реалізації у 2025—2027 роках </b> (*The National Transport Strategy of Ukraine for the period until 2030 and the approval of the operational action plan for its implementation in 2025–2027.*): https://www.kmu.gov.ua/npas/pro-skhvalennia-natsionalnoi-transportnoi-stratehii-ukrainy-na-period-do-2030-roku-ta-zatverdzhennia-operatsiinoho-planu-zakhodiv-z-ii-realizatsii-u-20252027-rokakh-i271224-1550?fbclid=IwZXh0bgNhZW0CMTEAAR17qHOYoeVpOKg0x2y6Ha2uVaCd-8hbdyNOOLKktLOoKAn43y9QxzzwnT4_aem_cO5D-FGFFLXjpJBfKaRhYg
 - План для // Plan for the Implementation of <b> Ukraine Facility </b> 2024 - 2027: https://www.ukrainefacility.me.gov.ua/wp-content/uploads/2024/03/ukraine-facility-plan.pdf
 - <b> Національна транспортна стратегія України на період до 2030 року </b> *(National Transport Strategy of Ukraine for the period up to 2030)* (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 - <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> *(Updated Transport Strategy of Ukraine Policy Directions)*, Ministry of Infrastructure Ukraine: https://mtu.gov.ua/files/strategy_ukr.pdf
