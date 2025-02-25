@@ -41,6 +41,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, (EIB, DG MOVE, 2023): https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
 - Recovery plans
+    -  <b> Fourth Rapid Damage and Needs Assessment (RDNA4) </b> February 2022 - December 2024  (World Bank, 2025): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099022025114040022  
     -  <b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023 (World Bank, 2024): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
     -  <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
     -  <b> Ukraine Rapid Damage and Needs Assessment (RDNA2) </b>: February 2022 - February 2023 (World Bank 2023): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
