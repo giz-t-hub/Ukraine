@@ -85,7 +85,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Транспортна концепція міста Івано-Франківська </b> *(Transport concept for the city of Ivano-Frankivsk)* (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link
  
 - Kharkiv:
-  - <b> https://www.objectiv.tv/wp-content/uploads/2025/01/Plan_mobilnosti_Harkova.pdf
+  - <b> План сталої міської мобільності міста Харкова </b> (*Sustainable Urban Mobility Plan Kharkiv*) (City of Kharkiv, GIZ, Dornier Consulting) 2024): https://www.objectiv.tv/wp-content/uploads/2025/01/Plan_mobilnosti_Harkova.pdf
 
 - Khmelnytskyi:
   - <b> Green City Action Plan </b> (EBRD, 2023): https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
