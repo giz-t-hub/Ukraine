@@ -60,6 +60,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
+- </b> Comparative Analysis of Ukrainian and European Union Legislation on Electric Vehicle Charging Infrastructure Along TEN-T Motorways </b> Ministry of Infrastructure GIZ EasTnT 2025: https://storage.googleapis.com/b2match-as-1/4J2nwJQJCvjfYQhFfiDv3nik - *This analytical report, developed with the support of the EasTnT project, implemented by GIZ, compares Ukrainian legislation with key EU frameworks, including the TEN-T Regulation and the Alternative Fuels Infrastructure Regulation (AFIR). It identifies priority gaps and reform areas and outlines practical steps to align Ukraine’s EV charging infrastructure with EU requirements, with a focus on interoperability, network planning, and the integration of e-mobility into wider transport and energy systems.*
 - Communication on EU Enlargement policy - <b> Ukraine 2023 Report Accompanying the document Communication </b> from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 : https://neighbourhood-enlargement.ec.europa.eu/ukraine-report-2023_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
@@ -80,7 +81,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> *(Development and Implementation of an Urban Passenger Transport Optimisation Model)* (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
  
 - Ivano-Frankivsk
-  - <b> Транспортна концепція міста Івано-Франківська </b> *(Transport concept for the city of Ivano-Frankivsk)* (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+  - <b> Транспортна концепція міста Івано-Франківська </b> *(Transport concept for the city of Ivano-Frankivsk)* (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link
+ 
+- Kharkiv:
+  - <b> https://www.objectiv.tv/wp-content/uploads/2025/01/Plan_mobilnosti_Harkova.pdf
 
 - Khmelnytskyi:
   - <b> Green City Action Plan </b> (EBRD, 2023): https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
