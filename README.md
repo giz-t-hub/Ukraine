@@ -57,7 +57,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
--
+- <b> Rebuilding Ukraine by Reinforcing Regional and Municipal Governance </b> OECD Multi-level Governance Studies, 2022: https://doi.org/10.1787/63a6b479-en — *Assesses Ukraine's pre-war decentralisation and regional development reforms — including the creation of 1,469 amalgamated municipalities — against the disparities and fiscal/administrative strain the war has since deepened, and sets out how multi-level governance can underpin subnational recovery.*
+- <b> Spatial Planning in Ukraine: 2023 Country Profile </b> Anisimov, Smirnova & Dulko, Aalto University, 2024: https://doi.org/10.5281/zenodo.10600560 — *A country profile tracing how Ukraine's planning system has evolved since the post-2020 territorial reform, used as a reference point in several of the 2025 spatial-planning journal articles below.*
+- <b> The Future of Spatial Planning in Ukraine — special issue </b> Transactions of the Association of European Schools of Planning, Vol. 9, No. 1 (2025): https://traesop.aesop-planning.eu — *A themed journal issue on (post-)war territorial governance, including case studies on how hromada-level institutions are coping — or struggling to cope — with reconstruction, plus companion pieces on strategic spatial planning under wartime legal and resourcing pressure*
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
