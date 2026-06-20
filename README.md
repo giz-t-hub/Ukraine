@@ -68,7 +68,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
-- 
+- <b> Handbook on Obtaining Preferential Origin for Ukraine, Georgia and Moldova </b> GIZ EasTnT: https://storage.googleapis.com/b2match-as-1/3tRSwr9kVELHZMPePXyqtyvz -*This handbook provides practical and accessible guidance for SMEs in Ukraine, Georgia, and Moldova on applying preferential origin rules under the Pan-Euro-Mediterranean (PEM) Convention. The Handbook explains applicable PEM rule sets, reflects recent regulatory updates and highlights digital tools that help businesses correctly determine origin and benefit from preferential tariffs. It is particularly relevant for companies active in trade, transport, and logistics amid ongoing EU integration processes.
 
 ### Digitalisation <a name="digitalisation"></a>
 
@@ -191,7 +191,8 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
 
 ### Data <a name="data"></a>
 
-- <b> Transport Data Hub Ukraine </b> Ministry of Infrastructure Ukraine: https://transport-hub.mindev.gov.ua/ 
+- <b> Transport Data Hub Ukraine </b> Ministry of Infrastructure Ukraine: https://transport-hub.mindev.gov.ua/
+- <b> https://data.gov.ua/group/transport </b> 
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/
 
