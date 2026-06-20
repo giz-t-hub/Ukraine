@@ -191,6 +191,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
 
 ### Data <a name="data"></a>
 
+- <b> Transport Data Hub Ukraine </b> Ministry of Infrastructure Ukraine: https://transport-hub.mindev.gov.ua/ 
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/
 
