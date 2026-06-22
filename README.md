@@ -99,7 +99,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Green City Action Plan </b>: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
  
 - Mykolaiv
-  - <b> План сталої міської мобільності міста Миколаїв </b> *(Sustainable urban mobility plan for the city of Mykolaiv)* (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
+  - <b> План сталої міської мобільності міста Миколаїв </b> *(Sustainable urban mobility plan for the city of Mykolaiv)* (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here); webpage: http://mobility.mk.ua/
 
 - Lviv:
   - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
@@ -117,7 +117,9 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
   - <b> Sustainable Urban Mobility Plan for Poltava </b>, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
  
 - Sumy
-  - <b> Фінансове Планування Для ПСММ м. Суми </b> *(Financial Planning for the SUMP in Sumy)* (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+  - <b> Фінансове Планування Для ПСММ м. Суми </b> *(Financial Planning for the SUMP in Sumy)* (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link
+ 
+- Uzhorod: ПСММ Ужгорода (повна версія PDF) / SUMP Uzhhorod: https://drive.google.com/file/d/1gCLEGtykdBKO1p2Jc9d9yXilBKtRzR5q/view; Webpage: https://forza.org.ua/uk/plan-staloyi-miskoyi-mobilnosti-uzhgoroda
  
 - Vinnytsia
   - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> *(Integrated Urban Transport and Spatial Development Strategy)* (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
