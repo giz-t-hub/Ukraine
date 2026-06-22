@@ -119,7 +119,9 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
 - Sumy
   - <b> Фінансове Планування Для ПСММ м. Суми </b> *(Financial Planning for the SUMP in Sumy)* (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link
  
-- Uzhorod: ПСММ Ужгорода (повна версія PDF) / SUMP Uzhhorod: https://drive.google.com/file/d/1gCLEGtykdBKO1p2Jc9d9yXilBKtRzR5q/view; Webpage: https://forza.org.ua/uk/plan-staloyi-miskoyi-mobilnosti-uzhgoroda
+- Uzhorod
+  -   <b> SUMP Uzhorod/ ПСММ Ужгорода (повна версія PDF) </b> https://drive.google.com/file/d/1gCLEGtykdBKO1p2Jc9d9yXilBKtRzR5q/view;
+  -   Webpage: https://forza.org.ua/uk/plan-staloyi-miskoyi-mobilnosti-uzhgoroda
  
 - Vinnytsia
   - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> *(Integrated Urban Transport and Spatial Development Strategy)* (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
