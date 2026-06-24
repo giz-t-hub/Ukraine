@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Local Transport Plans / SUMPs](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -78,7 +78,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - <b> Analytical report on the results of the research "Gender Gaps in the Municipal Transport Sector" </b> UN Women 2025: https://ukraine.unwomen.org/en/digital-library/publications/2025/05/analitychnyy-zvit-za-rezultatamy-doslidzhennya-henderni-rozryvy-u-sferi-munitsypalnoho-transportu - *This study examines the factors driving gender disparities in municipal transport. It analyzes women’s professional needs, access to education and employment, availability of resources and benefits, pay and working conditions, as well as career advancement opportunities, leadership representation, and influence on sector reforms.*
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Local Transport Plans / SUMPs <a name="local-transport-plans"></a>  
 
 - Chernihiv
   - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> *(Development and Implementation of an Urban Passenger Transport Optimisation Model)* (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
